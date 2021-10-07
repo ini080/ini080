@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://velog.io/@ini080">
     <img src="http://img.shields.io/badge/-222222?style=flat&logo=VectorLogoZone&link=https://velog.io/@ini080" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ini080&layout=compact&theme=본인이선택한테마명&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ini080&theme=dark&show_icons=true)
